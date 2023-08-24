@@ -116,4 +116,3 @@ void mod(stack_t **stack, unsigned int line_number)
 		exit_function(12);
 	}
 }
-

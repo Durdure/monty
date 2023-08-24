@@ -39,4 +39,3 @@ int main(int argc, char **argv)
 	fclose(element->fp);
 	return (0);
 }
-

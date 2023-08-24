@@ -47,4 +47,3 @@ void opcode_search(void)
 	if (ops[x].opcode == NULL)
 		exit_function(2);
 }
-

@@ -27,4 +27,3 @@ void fifo(stack_t **stack, unsigned int line_number)
 
 	element->IFO = 1;
 }
-

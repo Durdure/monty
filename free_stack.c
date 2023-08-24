@@ -85,4 +85,3 @@ void free_token(void)
 	}
 	element->tokened = NULL;
 }
-
